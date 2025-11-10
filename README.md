@@ -1,4 +1,4 @@
-This is a repo for fully clearing NVIDIA drivers from a system as well as fixing some common issues encountered with NVIDIA drivers. This repo was made from mergeing fixs to nv issues that have been tested to actully work over about 12 years by us directly. Possible Windows And OSX support in the future, as the issues are present on eachplatforum and share causes about 75%.
+This is a repo for fully clearing NVIDIA drivers from a system as well as fixing some common issues encountered with NVIDIA drivers. This repo was made from mergeing fixs to nv issues that have been tested to actully work over about 12 years by us directly. Possible Windows And OSX support in the future, as the issues are present on each platforum and share causes about 75%.
 
 -No AI Code!
 
